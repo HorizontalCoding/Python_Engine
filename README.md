@@ -1,3 +1,3 @@
 MBTI_TRAVEL_Server
-개발환경 : VisualStudioCode
-사용언어 : Pthon
+개발환경 : Visual Studio Code, Google Colab
+사용언어 : Python
